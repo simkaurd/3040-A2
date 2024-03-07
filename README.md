@@ -28,10 +28,15 @@ The purpose of this document is to describe the practical steps for hosting and 
 * ***Concept of Etter's Book***: GitHub Pages supports a list of Jekyll themes which allows users to create a cohesive static website. As Etter mentions in their book, it is vital to present all technical documentation in a visually appealing and consistent way. Applying [Jekyll Themes](#more-resources) allows us to do the same in simple steps. 
 * ***Steps***:
   1. Create a new file named **_config.yml** in your repository.
-  2. 
-4. **Publishing static website**
-* ***Concept of Etter's Book***:
-* ***Steps***: 
+  2. Add the following code to your config file: `theme: jekyll-theme-[Name of Theme]`. Refer to [my config file](_config.yml) for an example.
+  3. *Optional*: You can also add other attributes like title, description and more to your website by adding `title: [page title]` or `description: [page description]` etc. to your config file. 
+4. **Configuring static website**
+* ***Concept of Etter's Book***: In Etter's book, they mention the importance of accessibility and straightforward depolyment of technical documentation. Following their model, we will host our resume on GitHub Pages: a built in feature of GitHub that allows us to generate static websites. By doing so, we ensure a few key things: consistent accessibility of our online resume as well as effortless editing and deployment of all applicable files.
+* ***Steps***:
+  1. Ensure all files are set up and committed properly.
+  2. Navigate to your repository settings by clicking on the "Settings" tab on top. Go to "Pages" from the menu on the left.
+  3. Select "Deploy from a branch" under Source. Additionally, select the "main" branch and "/ root" as the directory. This ensures that GitHub Pages will find the index file in the *root* directory of the *main* branch.
+  4. Your static website is ready to viewed on a web browser at `https://[YourGitHubUsername].github.io`!
 
 
 ## More Resources
@@ -46,12 +51,12 @@ The purpose of this document is to describe the practical steps for hosting and 
 I would like to express my gratitude to Andrew Etter for their insight on Technical Writing via their book, Modern Technical Writing. Additionally, I appreciate my group members Vishal Singh Heer and Hridai Mehta for their valuable input and critique which helped polish this document. At last, I would like to acknowledge our professor, Stewart Wilcox for their aid in making this project possible!
 
 ## FAQs
-1. Why is my resume not showing on the static website?
+1. Why is markdown better than a word processor?
+* Markdown is a plain text file with limited syntax and features. While word processors offer high utility, Markdown offers simplicity and versatility which makes it an ideal choice for technical writing. Additionally, GitHub Pages features easy rendering of Markdown to HTML which allows us to create static websites without the need for advanced web development skills.
+
+2. Why is my resume not showing on the static website?
 * Please ensure all of these conditions are met for seemless rendering of your static website.
   * You *must* have your resume saved as "index.md" as GitHub pages picks up file named "index" as their base for the website and renders it into HTML.
   * You *must* have your "index.md" file in the root directory of your repository.
   * You *must* have your GitHub Pages configured properly - i.e. to build from root directory in the main branch.
   * You *must* ensure GitHub has finished building all changes. This will ensure you see the latest changes on your static website. 
-    
-2. Why is markdown better than a word processor?
-*  Markdown is a plain text file with limited syntax and features. While word processors offer high utility, Markdown offers simplicity and versatility which makes it an ideal choice for technical writing. Additionally, GitHub Pages features easy rendering of Markdown to HTML which allows us to create static websites without the need for advanced web development skills.
