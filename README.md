@@ -19,18 +19,17 @@ The purpose of this document is to describe the practical steps for hosting and 
   4. Set the repository to **Public** to allow potential employers to view your static website.
   5. Chek the **Add a README file** option to create a default README file. A README serves as an introduction to a repository and is visible on the repository home page, similar to one you are currently reading. 
 2. **Formatting your Resume**
-* ***Concept of Etter's Book***: Markdown is a simple and lighweight language with limited syntax and format. As mentioned in Etter's Book, using a straightforward language like Markdown makes writing the documentation more intuitive and the simple format allows for readers to focus more on content than the formatting. 
+* ***Concept of Etter's Book***: Markdown is a simple and lighweight language with limited syntax and format. As mentioned in Etter's Book, using a straightforward language like Markdown makes writing the documentation more intuitive and the simple format allows for readers to focus more on content than the formatting. Following this concept, we will be hosting our resume via a Markdown formatted file.
 * ***Steps***:
-  1. Create a new file in your repository using the + button on top right and save it as "index.md".
+  1. Create a new file in your repository using the + button on top right and save it as **index.md**. This is *crucial* as GitHub Pages, by default, renders the static website content based on the index file. By saving your resume as index.md, it will allow GitHub Pages to display the content as the main page on the website.
   2. Format your resume content either directly in GitHub or by using a [Markdown editor](#more-resources).
   3. Input your resume content formatted using Markdown syntax in this file if applicable and save your changes using the green "Commit changes..." button on top right.
 3. **Adding a Theme**
-* ***Concept of Etter's Book***:
+* ***Concept of Etter's Book***: GitHub Pages supports a list of Jekyll themes which allows users to create a cohesive static website. As Etter mentions in their book, it is vital to present all technical documentation in a visually appealing and consistent way. Utilising [Jekyll Themes](#more-resources) allows us to do the same in simple steps. 
 * ***Steps***: 
 4. **Publishing static website**
 * ***Concept of Etter's Book***:
 * ***Steps***: 
-[GitHub supported Themes](https://pages.github.com/themes/)
 
 
 ## More Resources
@@ -38,7 +37,8 @@ The purpose of this document is to describe the practical steps for hosting and 
 * [Tutorial](https://www.markdowntutorial.com/): practice Markdown for free!
 * [StackEdit](https://stackedit.io): free online Markdown editor.
 * [Syntax](): basic Markdown syntax documentation by GitHub.
-* [Static Website](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): official github documentation for hosting a static website via Github Pages.
+* [Static Website](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): official GitHub documentation for hosting a static website via Github Pages.
+* [GitHub supported Themes](https://pages.github.com/themes/): list of jekyll themes supported natively by GitHub.
 
 ## Acknowledgements
 I would like to express my gratitude to Andrew Etter for their insight on Technical Writing via their book, Modern Technical Writing. Additionally, I appreciate my group members Vishal Singh Heer and Hridai Mehta for their valuable input and critique which helped polish this document. At last, I would like to acknowledge our professor, Stewart Wilcox for their aid in making this project possible!
