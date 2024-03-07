@@ -4,19 +4,20 @@
 The purpose of this document is to describe the practical steps for hosting and formatting resume in markdown and relate them to general principles of current Technical Writing, as explained in Modern Technical Writing by Andrew Etter.
 
 ## Prerequisites
-* [Resume formatted in Markdown](index.md): check [More Resources](#more-resources) for links to tutorials, free online editors, syntax documentation and more!
+* GitHub Account: You will need a GitHub account to create your project and host your resume online as a static website.
+  * Explore GitHub here: [*What is GitHub and what does it offer?*](https://blog.hubspot.com/website/what-is-github-used-for)
+  * Create a free account: [GitHub!](https://github.com)
+* [Simran Kaur's resume formatted in Markdown](index.md): check [More Resources](#more-resources) for links to tutorials, free online editors, syntax documentation and more!
 
 ## Instructions
-**What you need**
-* GitHub Account - create a free account [here]()
-* GitHub
+* **Setting up your GitHub Repository**
 
 ## More Resources
+* [What is GitHub](https://blog.hubspot.com/website/what-is-github-used-for): an amazing blog that explains and introduces GitHub for beginners.
 * [Tutorial](https://www.markdowntutorial.com/): practice Markdown for free!
 * [StackEdit](https://stackedit.io): free online Markdown editor.
 * [Syntax](): basic Markdown syntax documentation by GitHub.
 * [Static Website](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): official github documentation for hosting a static website via Github Pages.
-
 
 ## Acknowledgements
 I would like to express my gratitude to Andrew Etter for their insight on Technical Writing via their book Modern Technical Writing. Additionally, I appreciate my group members Vishal Singh Heer and Hridai Mehta for their valuable input and critique which helped polish this document. At last, I would like to acknowledge our professor, Stewart Wilcox for their aid in making this project successful!
