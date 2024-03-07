@@ -14,8 +14,8 @@
 
 **University 1 Honour Roll, University of Manitoba**  
 *2020*
-## Relevant Experience
 
+## Relevant Experience
 ### ***Current Employer: G3 Canada Limited, Winnipeg, MB***
   
 **Data Analyst/Developer**  
@@ -45,6 +45,7 @@
 - Performed manual testing including regression and smoke testing in *ServiceNow* for multiple projects while maintaining speed and accuracy.
 - Challenged to take on Automated testing via *ATF* in *ServiceNow*, a first in the company, to reduce time spent during regression and increase possible test scenarios.
 - Worked with *Agrosoft* and *Microsoft Azure* during multiple tests for data validation and to ensure APIs were working correctly.
+
 ## Other Work Experience
 
 **USRA Research Award Program** - University of Manitoba  
