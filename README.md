@@ -10,12 +10,13 @@ To describe practical steps for hosting and formatting resume in markdown and re
 
 ## More Resources
 * [Tutorial](https://www.markdowntutorial.com/): practice Markdown for free!
-* [StackEdit](https://stackedit.io): free online Markdown editor 
+* [StackEdit](https://stackedit.io): free online Markdown editor.
 * [Syntax](): basic Markdown syntax.
 * [Static Website](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): official github documentation for hosting a static website via Github Pages.
 
 
 ## Authors and Acknowledgements
+Modernist Theme by Github
 
 ## FAQs
 1. Why is my resume not showing on the static website?
