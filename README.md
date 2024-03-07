@@ -37,6 +37,9 @@ The purpose of this document is to describe the practical steps for hosting and 
   2. Navigate to your repository settings by clicking on the "Settings" tab on top. Go to "Pages" from the menu on the left.
   3. Select "Deploy from a branch" under Source. Additionally, select the "main" branch and "/ root" as the directory. This ensures that GitHub Pages will find the index file in the *root* directory of the *main* branch.
   4. Your static website is ready to viewed on a web browser at `https://[YourGitHubUsername].github.io`!
+ 
+### gif
+![gif](https://github.com/simkaurd/simkaurd.github.io/blob/main/assets/ezgif-4-61750c99db.gif)
 
 
 ## More Resources
