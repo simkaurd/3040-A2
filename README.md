@@ -25,8 +25,10 @@ The purpose of this document is to describe the practical steps for hosting and 
   2. Format your resume content either directly in GitHub or by using a [Markdown editor](#more-resources).
   3. Input your resume content formatted using Markdown syntax in this file if applicable and save your changes using the green "Commit changes..." button on top right.
 3. **Adding a Theme**
-* ***Concept of Etter's Book***: GitHub Pages supports a list of Jekyll themes which allows users to create a cohesive static website. As Etter mentions in their book, it is vital to present all technical documentation in a visually appealing and consistent way. Utilising [Jekyll Themes](#more-resources) allows us to do the same in simple steps. 
-* ***Steps***: 
+* ***Concept of Etter's Book***: GitHub Pages supports a list of Jekyll themes which allows users to create a cohesive static website. As Etter mentions in their book, it is vital to present all technical documentation in a visually appealing and consistent way. Applying [Jekyll Themes](#more-resources) allows us to do the same in simple steps. 
+* ***Steps***:
+  1. Create a new file named **_config.yml** in your repository.
+  2. 
 4. **Publishing static website**
 * ***Concept of Etter's Book***:
 * ***Steps***: 
@@ -36,7 +38,7 @@ The purpose of this document is to describe the practical steps for hosting and 
 * [What is GitHub](https://blog.hubspot.com/website/what-is-github-used-for): an amazing blog that explains and introduces GitHub for beginners.
 * [Tutorial](https://www.markdowntutorial.com/): practice Markdown for free!
 * [StackEdit](https://stackedit.io): free online Markdown editor.
-* [Syntax](): basic Markdown syntax documentation by GitHub.
+* [Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): basic Markdown syntax documentation by GitHub.
 * [Static Website](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): official GitHub documentation for hosting a static website via Github Pages.
 * [GitHub supported Themes](https://pages.github.com/themes/): list of jekyll themes supported natively by GitHub.
 
