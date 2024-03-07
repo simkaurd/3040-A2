@@ -1,7 +1,8 @@
 
 # Simran Kaur
-
-(204) 249-4014 | kaurs61@myumanitoba.ca |  [linkedin](linkedin.com/in/simrannkaur)
+* 📧: kaurs61@myumanitoba.ca  
+* 📞: (204) 249-4014  
+* 👩🏻‍💼: [LinkedIn](linkedin.com/in/simrannkaur)
 
 ## Education & Awards
 
