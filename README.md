@@ -11,13 +11,13 @@ The purpose of this document is to describe the practical steps for hosting and 
 
 ## Instructions
 ### **Setting up your GitHub Repository**
-* ***Concept of Etter's Book***: GitHub leverage's Git's version control system to provide an interface which allows managing code and documentation altogether. As Andrew Etter mentions in their book, using a version control system allows for collaboration among a team, provides a change log which can be helpful to track changes and solve defects as well as allows seemless integration of documentation all in one place. Additionally, it also allows developers to go offline, add their code and merge it back to the main branch facilitating working towards multiple goals simultaneously. 
+* ***Concept of Etter's Book***: GitHub leverage's Git's version control system. What this means is that GitHub provides us a platform where we can manage both code and documentation in one place. As Andrew Etter mentions in their book, using a version control system allows for collaboration among a team, provides a log which can be helpful to track changes and solve defects as well as allows seemless integration of documentation all in one place. Hence using GitHub will be great for managing your online portfolio.
 * ***Steps***:
   1. Sign in to your github account [here](https://github.com/login).
   2. Navigate to your dashboard and click on **New** button at the top left to create a new repository.
   3. Name your repository `[YourGitHubUsername].github.io`. This format ensures compatibility with the default settings of GitHub Pages as well as helps create a consistent URL for your website.
   4. Set the repository to **Public** to allow potential employers to view your static website.
-  5. Chek the **Add a README file** option to create a default README file. A README serves as an introduction to a repository and is visible on the repository home page, similar to one you are currently reading. 
+  5. Check the **Add a README file** option to create a default README file. A README serves as an introduction to a repository and is visible on the repository home page, similar to one you are currently reading. 
 ### **Formatting your Resume**
 * ***Concept of Etter's Book***: Markdown is a simple and lighweight language with limited syntax and format. As mentioned in Etter's Book, using a straightforward language like Markdown makes writing the documentation more intuitive and the simple format allows for readers to focus more on content than the formatting. Following this concept, we will be hosting our resume via a Markdown formatted file.
 * ***Steps***:
@@ -28,7 +28,7 @@ The purpose of this document is to describe the practical steps for hosting and 
 * ***Concept of Etter's Book***: GitHub Pages supports a list of Jekyll themes which allows users to create a cohesive static website. As Etter mentions in their book, it is vital to present all technical documentation in a visually appealing and consistent way. Applying [Jekyll Themes](#more-resources) allows us to do the same in simple steps. 
 * ***Steps***:
   1. Create a new file named **_config.yml** in your repository.
-  2. Add the following code to your config file: `theme: jekyll-theme-[Name of Theme]`. Refer to [my config file](_config.yml) for an example.
+  2. Add the following code to your config file: `theme: jekyll-theme-[Name of Theme]`. Refer to my [_config.yml file](_config.yml) for an example.
   3. *Optional*: You can also add other attributes like title, description and more to your website by adding `title: [page title]` or `description: [page description]` etc. to your config file. 
 ### **Configuring static website**
 * ***Concept of Etter's Book***: In Etter's book, they mention the importance of accessibility and straightforward depolyment of technical documentation. Following their model, we will host our resume on GitHub Pages: a built in feature of GitHub that allows us to generate static websites. By doing so, we ensure a few key things: consistent accessibility of our online resume as well as effortless editing and deployment of all applicable files.
