@@ -39,7 +39,7 @@ The purpose of this document is to describe the practical steps for hosting and 
   4. Your static website is ready to viewed on a web browser at `https://[YourGitHubUsername].github.io`!
  
 ### Resume Demo via Animated Gif
-![gif](https://github.com/simkaurd/simkaurd.github.io/blob/main/assets/ezgif-4-61750c99db.gif)
+![gif](https://github.com/simkaurd/simkaurd.github.io/blob/main/assets/resume.gif)
 
 
 ## More Resources
