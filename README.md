@@ -10,7 +10,7 @@ The purpose of this document is to describe the practical steps for hosting and 
 * [Resume](index.md) - my resume formatted in Markdown. Also check [More Resources](#more-resources) for links to tutorials, free online editors, syntax documentation and more!
 
 ## Instructions
-### **Setting up your GitHub Repository**
+### 1. **Setting up your GitHub Repository**
 * ***Concept of Etter's Book***: GitHub leverage's Git's version control system. What this means is that GitHub provides us a platform where we can manage both code and documentation in one place and also keep a track of all the changes we make. As Andrew Etter mentions in their book, using a version control system allows for collaboration among a team, and provides a common platform for team members to use. Following this, using GitHub will be a great tool for managing your online portfolio.
 * ***Steps***:
   1. Sign in to your github account [here](https://github.com/login).
@@ -18,19 +18,19 @@ The purpose of this document is to describe the practical steps for hosting and 
   3. Name your repository `[YourGitHubUsername].github.io`. This format ensures compatibility with the default settings of GitHub Pages as well as helps create a consistent URL for your website.
   4. Set the repository to **Public** to allow potential employers to view your static website.
   5. Check the **Add a README file** option to create a default README file. A README serves as an introduction to a repository and is visible on the repository home page, similar to one you are currently reading. 
-### **Formatting your Resume**
+### 2. **Formatting your Resume**
 * ***Concept of Etter's Book***: Markdown is a simple and lighweight language with limited syntax and format. As mentioned in Etter's Book, using a straightforward language like Markdown makes writing the documentation more intuitive and the simple format allows for readers to focus more on content than the formatting. Following this concept, we will be hosting our resume via a Markdown formatted file.
 * ***Steps***:
   1. Create a new file in your repository using the + button on top right and save it as **index.md**. This is *crucial* as GitHub Pages, by default, renders the static website content based on the index file. By saving your resume as index.md, it will allow GitHub Pages to display the content as the main page on the website.
   2. Format your resume content either directly in GitHub or by using a [Markdown editor](#more-resources).
   3. Input your resume content formatted using Markdown syntax in this file if applicable and save your changes using the green "Commit changes..." button on top right.
-### **Adding a Theme**
+### 3. **Adding a Theme**
 * ***Concept of Etter's Book***: GitHub Pages supports a list of Jekyll themes which allows users to create a cohesive static website. As Etter mentions in their book, it is vital to present all technical documentation in a visually appealing and consistent way. Applying [Jekyll Themes](#more-resources) allows us to do the same in simple steps. 
 * ***Steps***:
   1. Create a new file named **_config.yml** in your repository.
   2. Add the following code to your config file: `theme: jekyll-theme-[Name of Theme]`. Refer to my [_config.yml file](_config.yml) for an example.
   3. *Optional*: You can also add other attributes like title, description and more to your website by adding `title: [page title]` or `description: [page description]` etc. to your config file. 
-### **Configuring static website**
+### 4. **Configuring static website**
 * ***Concept of Etter's Book***: In Etter's book, they mention the importance of accessibility and straightforward depolyment of technical documentation. Following their model, we will host our resume on GitHub Pages: a built in feature of GitHub that allows us to generate static websites. By doing so, we ensure a few key things: consistent accessibility of our online resume as well as effortless editing and deployment of all applicable files.
 * ***Steps***:
   1. Ensure all files are set up and committed properly.
