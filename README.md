@@ -11,7 +11,7 @@ The purpose of this document is to describe the practical steps for hosting and 
 
 ## Instructions
 ### **Setting up your GitHub Repository**
-* ***Concept of Etter's Book***: GitHub leverage's Git's version control system. What this means is that GitHub provides us a platform where we can manage both code and documentation in one place. As Andrew Etter mentions in their book, using a version control system allows for collaboration among a team, provides a log which can be helpful to track changes and solve defects as well as allows seemless integration of documentation all in one place. Hence using GitHub will be great for managing your online portfolio.
+* ***Concept of Etter's Book***: GitHub leverage's Git's version control system. What this means is that GitHub provides us a platform where we can manage both code and documentation in one place and also keep a track of all the changes we make. As Andrew Etter mentions in their book, using a version control system allows for collaboration among a team, and provides a common platform for team members to use. Following this, using GitHub will be a great tool for managing your online portfolio.
 * ***Steps***:
   1. Sign in to your github account [here](https://github.com/login).
   2. Navigate to your dashboard and click on **New** button at the top left to create a new repository.
